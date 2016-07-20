@@ -1,12 +1,17 @@
 {
   "name": "social-feed",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "homepage": "http://pavelk2.github.io/social-feed/",
   "authors": [
     {
       "name": "Pavel Kucherbaev",
       "email": "pavel@kucherbaev.com",
       "homepage": "http://kucherbaev.com"
+    },
+    {
+      "name": "Simone Albano",
+      "email": "dc.jest@gmail.com",
+      "homepage": "http://jest.pw"
     }
   ],
   "keywords":[
