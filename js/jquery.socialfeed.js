@@ -117,7 +117,7 @@ if (typeof Object.create !== 'function') {
                 var data = this.content;
 
                 if ($(container).children('[social-feed-id=' + data.id + ']').length !== 0) {
-                    posts_to_render_count--
+                    posts_to_load_count--
                     return false;
                 }
                 if ($(container).children().length === 0) {
